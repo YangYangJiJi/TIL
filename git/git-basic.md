@@ -1,4 +1,10 @@
 # 기본 git 개념과 용어
+## git init
+- git init은 현재 폴더를 Git 저장소(Repository)로 초기화하는 명령어야.
+- 실행하면 .git 폴더가 생성되고, Git이 변경 사항을 추적할 수 있음.
+- 이후 git add, git commit, git push 등을 사용하여 버전 관리 가능.
+- GitHub에 올리려면 먼저 git init을 해야 로컬 저장소가 만들어짐.
+- 이미 Git이 초기화된 폴더라면 다시 git init 할 필요 없음!
 
 ## 코드
 - 다음과 같은 코드는 bit bash에 치면 된다.
